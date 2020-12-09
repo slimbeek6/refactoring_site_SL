@@ -6,4 +6,9 @@ The request from the client is to review and refactor their codebase to ensure t
 
 In reviewing the codebase, I ensured that the source code contains semantic HTML elements, followed a logical structure, and includes alt and heading attributes to ensure search engine optimization
 
-##
+## Code Updates Made
+
+asdfasdf
+
+## Functionality Changes & User Guide
+
