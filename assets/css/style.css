@@ -95,10 +95,6 @@ p {
 }
 /* Combined all of the img and h2 CSS code for the main section into a single code*/
 
-
-/* Removed the relevant online-reputation-management image and header below the initial .online-reputation-management CSS code*/
-
-
 /* Removed the relevant online-reputation-management image and header below the initial .online-reputation-management CSS code*/
 
 .benefits {
@@ -113,20 +109,18 @@ p {
 }
 
 .benefit-content {
-    margin-bottom: 20px;
+    margin-bottom: 32px;
     color: #ffffff;
 }
 
 .benefit-content h3 {
     margin-bottom: 10px;
-    /* reduced margin slightly to align the aside better with the content on the left */
     text-align: center;
 }
 
 .benefit-content img {
     display: block;
-    margin: 5px auto;
-    /* reduced margin slightly to align the aside better with the content on the left */
+    margin: 10px auto;
     max-width: 150px;
 }
 /* Moved the relevant benefit-lead image and header below the initial .benefit-lead CSS code*/
