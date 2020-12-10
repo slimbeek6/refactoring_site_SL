@@ -76,7 +76,7 @@ p {
 }
 
 
-.search-engine-optimization {
+.main-section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -85,52 +85,21 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.main-section img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+.main-section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* Moved the relevant search-engine-optimization image and header below the initial .search-engine-optimization CSS code*/
+/* Combined all of the img and h2 CSS code for the main section into a single code*/
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
 
-.online-reputation-management img {
-    max-height: 200px;
-}
+/* Removed the relevant online-reputation-management image and header below the initial .online-reputation-management CSS code*/
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/* Moved the relevant online-reputation-management image and header below the initial .online-reputation-management CSS code*/
 
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+/* Removed the relevant online-reputation-management image and header below the initial .online-reputation-management CSS code*/
 
 .benefits {
     margin-right: 20px;
@@ -143,55 +112,25 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
+.benefit-content {
+    margin-bottom: 20px;
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+.benefit-content h3 {
     margin-bottom: 10px;
+    /* reduced margin slightly to align the aside better with the content on the left */
     text-align: center;
 }
 
-.benefit-lead img {
+.benefit-content img {
     display: block;
-    margin: 10px auto;
+    margin: 5px auto;
+    /* reduced margin slightly to align the aside better with the content on the left */
     max-width: 150px;
 }
 /* Moved the relevant benefit-lead image and header below the initial .benefit-lead CSS code*/
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-/* Moved the relevant benefit-brand image and header below the initial .benefit-brand CSS code*/
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
+/* Combined all of the img and h3 CSS code for the main section into a single code*/
 
 .footer {
     padding: 30px;
