@@ -63,13 +63,12 @@ Replaced by:
 
 ## Deployed Link
 
-* [See Live Site](#)
+* [See Live Site](https://slimbeek6.github.io/refactoring_site_SL/)
 
 
 ## Authors
 
 * **Shaun Limbeek** 
 
-- [Link to Portfolio Site](#)
 - [Link to Github](https://github.com/slimbeek6/)
 - [Link to LinkedIn](https://www.linkedin.com/in/shaun-limbeek/)
