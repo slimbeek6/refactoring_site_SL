@@ -6,9 +6,15 @@ The request from the client is to review and refactor their codebase to ensure t
 
 In reviewing the codebase, I ensured that the source code contains semantic HTML elements, followed a logical structure, and includes alt and heading attributes to ensure search engine optimization
 
-![Picture of Website] (/assets/images/site.png)
+![Picture of Website](/assets/images/site.png)
+
+<hr>
 
 ## Code Updates Made
+
+There is now a title on the webpage of "Horiseon | SEO, Online PR, and Social Media Marketing" which does a better job of describing the page than the previous title of "website".
+
+There are a number of new alt text descriptors to all of the images in the code to ensure that the page is accessible and optimized for search engines.
 
 
 In the majority of the html, the different containers are all labeled as divs, rather than using semantic code.  The code is updated to include semantic elements like:
@@ -48,9 +54,7 @@ Replaced by:
     color: #ffffff;
 }
 ```
-
-## Functionality Changes & User Guide
-
+<hr>
 
 ## Built With
 
@@ -67,5 +71,5 @@ Replaced by:
 * **Shaun Limbeek** 
 
 - [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/)
-- [Link to LinkedIn](https://www.linkedin.com/)
+- [Link to Github](https://github.com/slimbeek6/)
+- [Link to LinkedIn](https://www.linkedin.com/in/shaun-limbeek/)
